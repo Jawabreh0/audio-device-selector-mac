@@ -43,21 +43,10 @@ python audio_device_selector.py
 
 Use the arrow keys to navigate through the list of devices, and press Enter to select a device.
 
-## Integration
-
-To integrate this utility into your own Python project, you can import and use the `change_audio_devices()` function:
-
-```python
-from audio_device_selector import change_audio_devices
-
-# Your code here
-change_audio_devices()
-# Rest of your code
-```
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/audio-device-selector/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/jawabreh0/audio-device-selector/issues) if you want to contribute.
 
 ## License
 
